@@ -1,4 +1,4 @@
-# NodeMCU wireless connection HC-SC04 via Web Server
+# NodeMCU Wireless Communication HC-SC04 via Web Server
 Reading distance data from HC-SR04 sensor using ESP-8266 and sharing it wirelessly with devices on the same network via webserver.
 At the beginning of the code, change 'your_ssid' to your wifi name and 'your_password' to that network's password. 
 
